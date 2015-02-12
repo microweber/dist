@@ -2,5 +2,5 @@ sending incremental file list
 vendor/autoload.php
 vendor/composer/autoload_real.php
 
-sent 258282 bytes  received 1181 bytes  172975.33 bytes/sec
-total size is 42737592  speedup is 164.72 (DRY RUN)
+sent 258342 bytes  received 1181 bytes  173015.33 bytes/sec
+total size is 42737592  speedup is 164.68 (DRY RUN)
