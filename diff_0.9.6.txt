@@ -1,17 +1,6 @@
 sending incremental file list
-src/Microweber/User.php
-src/Microweber/Controllers/DefaultController.php
-src/Microweber/Providers/ConfigSave.php
-src/Microweber/Providers/ContentManager.php
-src/Microweber/Providers/UserManager.php
-src/Microweber/Traits/ExtendedSave.php
-src/Microweber/Utils/MailSender.php
-src/Microweber/functions/api_callbacks.php
-userfiles/modules/microweber/api/events.js
-userfiles/modules/microweber/api/tools.js
-userfiles/modules/shop/functions.php
 vendor/autoload.php
 vendor/composer/autoload_real.php
 
-sent 258223 bytes  received 1218 bytes  103776.40 bytes/sec
-total size is 42735769  speedup is 164.72 (DRY RUN)
+sent 258254 bytes  received 1181 bytes  172956.67 bytes/sec
+total size is 42737592  speedup is 164.73 (DRY RUN)
