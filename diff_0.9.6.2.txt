@@ -1,7 +1,7 @@
 sending incremental file list
-src/Microweber/functions/bootstrap.php
+src/Microweber/Providers/MenuManager.php
 vendor/autoload.php
 vendor/composer/autoload_real.php
 
-sent 258087 bytes  received 1184 bytes  172847.33 bytes/sec
-total size is 42727429  speedup is 164.80 (DRY RUN)
+sent 257855 bytes  received 1184 bytes  74011.14 bytes/sec
+total size is 42727432  speedup is 164.95 (DRY RUN)
