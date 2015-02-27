@@ -1,22 +1,6 @@
 sending incremental file list
-src/Microweber/Database.php
-src/Microweber/Controllers/DefaultController.php
-src/Microweber/Install/Schema/Content.php
-src/Microweber/Providers/CategoryManager.php
-src/Microweber/Providers/ContentManager.php
-userfiles/modules/admin/modules/installed_modules.php
-userfiles/modules/admin/modules/market.php
-userfiles/modules/content/trash.php
-userfiles/modules/content/views/edit_default.php
-userfiles/modules/microweber/api/liveedit.js
-userfiles/modules/microweber/api/plus.js
-userfiles/modules/microweber/api/treerenderer.php
-userfiles/modules/microweber/css/admin.css
-userfiles/modules/microweber/css/ui.css
-userfiles/modules/microweber/css/less/ui.less
-userfiles/modules/microweber/toolbar/editor_tools/wysiwyg/index.php
 vendor/autoload.php
 vendor/composer/autoload_real.php
 
-sent 257696 bytes  received 1233 bytes  103571.60 bytes/sec
-total size is 42727544  speedup is 165.02 (DRY RUN)
+sent 258247 bytes  received 1181 bytes  103771.20 bytes/sec
+total size is 42746115  speedup is 164.77 (DRY RUN)
