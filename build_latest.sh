@@ -3,14 +3,14 @@
 
 #build latest
 rm -rf microweber-latest/
-composer create-project microweber/microweber microweber-latest 1.0.x-dev --prefer-dist --no-dev --no-plugins --no-scripts --ignore-platform-reqs
+composer create-project microweber/microweber microweber-latest dev-master --prefer-dist --no-dev --no-plugins --no-scripts --ignore-platform-reqs
 rm -f microweber-latest.zip
 zip -r microweber-latest.zip microweber-latest
 
 
 #build update
 rm -rf microweber-update/
-composer create-project microweber/microweber microweber-update 1.0.x-dev --prefer-dist --no-dev --no-plugins --no-scripts --ignore-platform-reqs
+composer create-project microweber/microweber microweber-update dev-master --prefer-dist --no-dev --no-plugins --no-scripts --ignore-platform-reqs
 rm -f microweber-update.zip
 rm -rf microweber-update/app
 rm -rf microweber-update/config
