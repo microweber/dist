@@ -11,7 +11,16 @@ If you want to build it yourself, use the following composer command:
 `composer create-project microweber/microweber my_site dev-master --prefer-dist --no-dev --no-plugins --no-scripts --ignore-platform-reqs`
 
 
-## Older versions
+## Other versions
+
+### Version 1.0.4
+`composer create-project microweber/microweber my_site 1.0.4.x-dev --prefer-dist --no-dev --no-plugins --no-scripts --ignore-platform-reqs`
+
+
+### Version 1.0.3
+`composer create-project microweber/microweber my_site 1.0.3.x-dev --prefer-dist --no-dev --no-plugins --no-scripts --ignore-platform-reqs`
+
+
 
 ### Version 1.0.2
 `composer create-project microweber/microweber my_site 1.0.2.x-dev --prefer-dist --no-dev --no-plugins --no-scripts --ignore-platform-reqs`
